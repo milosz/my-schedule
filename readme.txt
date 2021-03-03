@@ -1,5 +1,5 @@
 === My schedule WordPress plugin ===
-Contributors: miloszgalazka
+Contributors: milosz.galazka
 Tags: schedule
 Requires at least: 5.5
 Tested up to: 5.6.2
