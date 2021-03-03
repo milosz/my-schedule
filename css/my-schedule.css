@@ -1,0 +1,56 @@
+.schedule-box {
+    min-height: 8em;
+
+}
+
+.schedule-box.active {
+    color: #444;
+}
+
+.schedule-box.inactive {
+    color: #888;
+}
+
+.schedule-box.hidden {
+    display: none;
+    color: #ccc;
+}
+
+.schedule-box table {
+    width: 100%;
+}
+
+.schedule-box table td {
+    vertical-align: top;
+}
+
+.schedule-box div.post p {
+    margin: 0;
+}
+
+.schedule-box div.post p.links {
+    margin-bottom: 1em;
+}
+
+.schedule-box table .date {
+    width: 9em;
+    vertical-align: top;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.schedule-box table .date .day{
+    font-size:200%;
+    font-weight: bolder;
+    padding: 0.3em;
+}
+
+.schedule-box table .date .month,
+.schedule-box table .date .weekday,
+.schedule-box table .date .year {
+    font-size: 100%;
+}
+
+.bolder{
+    font-weight: bolder;
+}

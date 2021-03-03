@@ -1,0 +1,159 @@
+# Copyright (C) 2021 My schedule
+# This file is distributed under the same license as the My schedule package.
+msgid ""
+msgstr ""
+"Project-Id-Version: My schedule 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/my-schedule\n"
+"POT-Creation-Date: 2021-03-03 21:58:47+00:00\n"
+"PO-Revision-Date: 2021-03-03 23:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+#: includes/board.php:7 includes/board.php:47 includes/settings.php:31
+msgid "My schedule"
+msgstr "Mój harmonogram"
+
+#: includes/board.php:49
+msgid "There is a %s scheduled post."
+msgid_plural "There are %s scheduled posts."
+msgstr[0] "Istnieje jeden zaplanowany wpis."
+msgstr[1] "Istnieje %s zaplanowanych wpisów."
+msgstr[2] "Istnieje %s zaplanowanych wpisów."
+
+#: includes/board.php:89
+msgid "View"
+msgstr "Pokaż"
+
+#: includes/board.php:89
+msgid "or"
+msgstr "lub"
+
+#: includes/board.php:89
+msgid "edit"
+msgstr "edytuj"
+
+#: includes/board.php:89
+msgid "this post"
+msgstr "ten wpis"
+
+#: includes/settings.php:7
+msgid "1 week"
+msgstr "1 tydzień"
+
+#: includes/settings.php:8
+msgid "1 month"
+msgstr "1 miesiąc"
+
+#: includes/settings.php:9
+msgid "3 months"
+msgstr "3 miesiące"
+
+#: includes/settings.php:20
+msgid "Monday"
+msgstr "Poniedziałek"
+
+#: includes/settings.php:21
+msgid "Tuesday"
+msgstr "Wtorek"
+
+#: includes/settings.php:22
+msgid "Wednesday"
+msgstr "Środa"
+
+#: includes/settings.php:23
+msgid "Thursday"
+msgstr "Czwartek"
+
+#: includes/settings.php:24
+msgid "Friday"
+msgstr "Piątek"
+
+#: includes/settings.php:25
+msgid "Saturday"
+msgstr "Sobota"
+
+#: includes/settings.php:26
+msgid "Sunday"
+msgstr "Niedziela"
+
+#: includes/settings.php:38
+msgid "My schedule settings"
+msgstr "Opcje mojego harmonogramu"
+
+#: includes/settings.php:48
+msgid "Here you can set all the options for the time frame"
+msgstr "Tutaj możesz zdefiniować opcje dotyczące przedziału czasowego"
+
+#: includes/settings.php:52
+msgid "Here you can set all the options for the schedule"
+msgstr "Tutaj możesz zdefiniować opcje dotyczące harmonogramu"
+
+#: includes/settings.php:84
+msgid "Time frame"
+msgstr "Zakres czasu"
+
+#: includes/settings.php:85
+msgid "Minimal time frame"
+msgstr "Minimalny przedział czasu"
+
+#: includes/settings.php:86
+msgid "Schedule"
+msgstr "Harmonogram"
+
+#: includes/settings.php:87
+msgid "Publishing days"
+msgstr "Dni publikacji"
+
+msgid "January"
+msgstr "Styczeń"
+
+msgid "February"
+msgstr "Luty"
+
+msgid "March"
+msgstr "Marzec"
+
+msgid "April"
+msgstr "Kwiecień"
+
+msgid "May"
+msgstr "Maj"
+
+msgid "June"
+msgstr "Czerwiec"
+
+msgid "July"
+msgstr "Lipiec"
+
+msgid "August"
+msgstr "Sierpień"
+
+msgid "September"
+msgstr "Wrzesień"
+
+msgid "October"
+msgstr "Październik"
+
+msgid "November"
+msgstr "Listopad"
+
+msgid "December"
+msgstr "Grudzień"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://sleeplessbeastie.eu"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Milosz Galazka"
+msgstr ""

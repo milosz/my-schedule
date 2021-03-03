@@ -1,0 +1,158 @@
+# Copyright (C) 2021 My schedule
+# This file is distributed under the same license as the My schedule package.
+msgid ""
+msgstr ""
+"Project-Id-Version: My schedule 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/my-schedule\n"
+"POT-Creation-Date: 2021-03-03 21:58:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  my-schedule.pot (My schedule 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  my-schedule.pot (My schedule 1.0.0)  #-#-#-#-#
+#. Description of the plugin/theme
+#: includes/board.php:7 includes/board.php:47 includes/settings.php:31
+msgid "My schedule"
+msgstr ""
+
+#: includes/board.php:49
+msgid "There is a %s scheduled post."
+msgid_plural "There are %s scheduled posts."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/board.php:89
+msgid "View"
+msgstr ""
+
+#: includes/board.php:89
+msgid "or"
+msgstr ""
+
+#: includes/board.php:89
+msgid "edit"
+msgstr ""
+
+#: includes/board.php:89
+msgid "this post"
+msgstr ""
+
+#: includes/settings.php:7
+msgid "1 week"
+msgstr ""
+
+#: includes/settings.php:8
+msgid "1 month"
+msgstr ""
+
+#: includes/settings.php:9
+msgid "3 months"
+msgstr ""
+
+#: includes/settings.php:20
+msgid "Monday"
+msgstr ""
+
+#: includes/settings.php:21
+msgid "Tuesday"
+msgstr ""
+
+#: includes/settings.php:22
+msgid "Wednesday"
+msgstr ""
+
+#: includes/settings.php:23
+msgid "Thursday"
+msgstr ""
+
+#: includes/settings.php:24
+msgid "Friday"
+msgstr ""
+
+#: includes/settings.php:25
+msgid "Saturday"
+msgstr ""
+
+#: includes/settings.php:26
+msgid "Sunday"
+msgstr ""
+
+#: includes/settings.php:38
+msgid "My schedule settings"
+msgstr ""
+
+#: includes/settings.php:48
+msgid "Here you can set all the options for the time frame"
+msgstr ""
+
+#: includes/settings.php:52
+msgid "Here you can set all the options for the schedule"
+msgstr ""
+
+#: includes/settings.php:84
+msgid "Time frame"
+msgstr ""
+
+#: includes/settings.php:85
+msgid "Minimal time frame"
+msgstr ""
+
+#: includes/settings.php:86
+msgid "Schedule"
+msgstr ""
+
+#: includes/settings.php:87
+msgid "Publishing days"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+#. #-#-#-#-#  my-schedule.pot (My schedule 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  my-schedule.pot (My schedule 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://sleeplessbeastie.eu"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Milosz Galazka"
+msgstr ""
