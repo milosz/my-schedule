@@ -16,7 +16,7 @@ function board_page() {
 	}
 
 	$options           = get_option( 'my_schedule_plugin_options' );
-	$option_time_frame = \MySchedule\Settings\get_option_value_time_frame( isset( $options['time_frame'] ) ? $options['time_frame'] : "week" );
+	$option_time_frame = \MySchedule\Settings\get_option_value_time_frame( isset( $options['time_frame'] ) ? $options['time_frame'] : "1 week" );
 
 	$option_publishing_days = array();
 	foreach ( \MySchedule\Settings\get_options_publishing_days() as $key => $value ) {
