@@ -3,7 +3,7 @@
  * Plugin Name:       My schedule
  * Plugin URI:        https://github.com/milosz/my-schedule
  * Description:       My schedule
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.5
  * Requires PHP:      7.4
  * Author:            Milosz Galazka
