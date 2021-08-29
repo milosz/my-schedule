@@ -32,7 +32,7 @@ function board_page() {
 		'posts_per_page' => 200,
 		'offset'         => 0,
 		'post_status'    => 'future',
-		'date_query'     => array( 'after' => $date_from->format( 'Y-m-d' ) )
+		'date_query'     => array( 'after' => $date_from->format( 'Y-m-d' ) - 1 )
 	);
 	$posts      = get_posts( $query_args );
 
